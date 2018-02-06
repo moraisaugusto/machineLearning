@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Axes3D	/home/augusto/Development/python/machineLearning/linearRegression.py	/^from mpl_toolkits.mplot3d import Axes3D$/;"	i
+Theta	/home/augusto/Development/python/machineLearning/linearRegression.py	/^Theta = gradientDescent(X_bias,Y,Theta,iterations,alpha)$/;"	v
+Theta	/home/augusto/Development/python/machineLearning/linearRegression.py	/^Theta = np.random.rand(1,2)$/;"	v
+X	/home/augusto/Development/python/machineLearning/linearRegression.py	/^X = data[::,:1]$/;"	v
+X_axis	/home/augusto/Development/python/machineLearning/linearRegression.py	/^X_axis = X$/;"	v
+X_bias	/home/augusto/Development/python/machineLearning/linearRegression.py	/^X_bias = np.ones((m,2))$/;"	v
+X_test	/home/augusto/Development/python/machineLearning/linearRegression.py	/^X_test = np.array([[1,4.0],[1,7.0]])$/;"	v
+Y	/home/augusto/Development/python/machineLearning/linearRegression.py	/^Y = data[::,1:]$/;"	v
+Y_axis	/home/augusto/Development/python/machineLearning/linearRegression.py	/^Y_axis = X_bias.dot(Theta.transpose())$/;"	v
+alpha	/home/augusto/Development/python/machineLearning/linearRegression.py	/^alpha = 0.01$/;"	v
+data	/home/augusto/Development/python/machineLearning/linearRegression.py	/^data = np.array(data)$/;"	v
+data	/home/augusto/Development/python/machineLearning/linearRegression.py	/^data = np.loadtxt("datasets\/ex1data1.txt",delimiter=",")$/;"	v
+fitness	/home/augusto/Development/python/machineLearning/linearRegression.py	/^def fitness(X_bias,Y,Theta):$/;"	f	access:public
+gradientDescent	/home/augusto/Development/python/machineLearning/linearRegression.py	/^def gradientDescent(X_bias,Y,Theta,iterations,alpha):$/;"	f	access:public
+hypothesis	/home/augusto/Development/python/machineLearning/linearRegression.py	/^hypothesis = X_test.dot(Theta.transpose())$/;"	v
+iterations	/home/augusto/Development/python/machineLearning/linearRegression.py	/^iterations = 2000$/;"	v
+matplotlib	/home/augusto/Development/python/machineLearning/linearRegression.py	/^import matplotlib.pyplot as plt$/;"	i
+np	/home/augusto/Development/python/machineLearning/linearRegression.py	/^import numpy as np$/;"	i
+os	/home/augusto/Development/python/machineLearning/linearRegression.py	/^import os$/;"	i
+pd	/home/augusto/Development/python/machineLearning/linearRegression.py	/^import pandas as pd$/;"	i
+plt	/home/augusto/Development/python/machineLearning/linearRegression.py	/^import matplotlib.pyplot as plt$/;"	i
+sys	/home/augusto/Development/python/machineLearning/linearRegression.py	/^import sys$/;"	i
