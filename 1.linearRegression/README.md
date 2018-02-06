@@ -7,4 +7,4 @@ Exercises from Coursera Machine Learning
 Onevariable Linear regression to predict profits for a food truck in a new City. It's based on population size.
 
 
-![screen 1](https://raw.githubusercontent.com/aflavio/machineLearning/master/1.linearRegression/linearRegression-Result.png)
+![screen 1](https://raw.githubusercontent.com/moraisaugusto/machineLearning/master/1.linearRegression/linearRegression-Result.png)
