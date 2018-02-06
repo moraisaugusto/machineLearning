@@ -1,0 +1,38 @@
+Daily Deals Dataset (http://www.cs.yale.edu/homes/zg/daily-deals-dataset.html)
+
+These datasets were collected and used for the paper:
+
+John Byers, Michael Mitzenmacher & Georgios Zervas:
+"Daily Deals: Prediction, Social Diffusion, and Reputational Ramifications"
+
+A detailed description of their contents is available in Section 2 of the
+paper, available at http://arxiv.org/abs/1109.1530. The two files contained in
+the dataset are in CSV format (comma-separated values) and the first row of
+each file is a self-explanatory header.
+
+We make these datasets to the academic communinity for non-commercial use. If 
+you use them please cite our paper using the following BibTeX entry:
+
+@inproceedings{BMZ12,
+ author = {Byers, John W. and Mitzenmacher, Michael and Zervas, Georgios},
+ title = {Daily deals: prediction, social diffusion, and reputational ramifications},
+ booktitle = {Proceedings of the fifth ACM international conference on Web search and data mining},
+ series = {WSDM '12},
+ year = {2012},
+ isbn = {978-1-4503-0747-5},
+ location = {Seattle, Washington, USA},
+ pages = {543--552},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/2124295.2124361},
+ doi = {10.1145/2124295.2124361},
+ acmid = {2124361},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {daily deals, reputation, social diffusion},
+} 
+
+For questions regarding this dataset please contact Georgios Zervas.
+
+File name: daily-deals-data.tar.gz
+File size: 548338 bytes
+MD5: 2849dc346fb58312fcd3b019d6a5585a
