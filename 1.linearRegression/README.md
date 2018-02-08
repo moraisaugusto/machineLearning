@@ -3,7 +3,7 @@
 
 Exercises from Coursera Machine Learning
 
-## Simple Linear Regression Started
+## Simple Linear Regression
 
 Univariable Linear regression to predict profits for a food truck in a new City. It's based on population size.
 
@@ -11,7 +11,7 @@ Univariable Linear regression to predict profits for a food truck in a new City.
 ![screen 1](https://raw.githubusercontent.com/moraisaugusto/machineLearning/master/1.linearRegression/univariableLinearRegression.png)
 
 
-## Multivariable Regression Started
+## Multivariable Linear Regression
 
 Multivariable Linear regression to predict house prices based on square feet and number of rooms.
 
