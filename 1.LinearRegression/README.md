@@ -41,7 +41,7 @@ if we have a very large number of features, the normal equation will be slow.
 in octave we want to use the 'pinv' function rather than 'inv.' The 'pinv'
 function will give you a value of θ even if XTX is not invertible.
 
-If X^TX is _noninvertible_, the common causes might be having :
+If (X^T)X is _noninvertible_, the common causes might be having :
 
 Redundant features, where two features are very closely related (i.e. they are
 linearly dependent) Too many features (e.g. m ≤ n). In this case, delete some
