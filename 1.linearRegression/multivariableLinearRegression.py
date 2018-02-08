@@ -99,10 +99,10 @@ print ('price of a house with 1650 feets and 3 rooms is: ',locale.currency(hypot
 # Plot showing hypothesis 
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
-xs = X[::,0:1]
-ys = X[::,1:2]
-zs = X[::,-1:]
-ax.scatter(xs, ys, zs)
+
+
+ax.scatter(X[::,0:1], X[::,1:2], Y, c='b')
+
 ax.set_xlabel('Square Feets')
 ax.set_ylabel('Rooms Number')
 ax.set_zlabel('Price')
@@ -119,4 +119,3 @@ print("\n\n##################")
 print("Predicted Formula:")
 print("h_theta(x) = theta_0*x_0 + theta_1*x_1 + theta_2*x_2")
 print("h_theta(x) = ", Theta[0][0], " + ", Theta[0][1], "* x_1 + ", Theta[0][2], "* x_2")
-exit()
