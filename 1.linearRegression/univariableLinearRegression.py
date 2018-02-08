@@ -60,6 +60,7 @@ def gradientDescent(X_bias,Y,Theta,iterations,alpha):
 alpha = 0.01
 iterations = 2000
 Theta = gradientDescent(X_bias,Y,Theta,iterations,alpha)
+print("Theta: ", Theta)
 
 # predict the profit for city with 35000 and 75000 people
 X_test = np.array([[1,4.0],[1,7.0]])
