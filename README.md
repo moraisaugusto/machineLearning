@@ -6,20 +6,17 @@ Compilation of Machine Learning tips
 
 ## 1. Linear Regression 
 
-### Simple Linear Regression
-
-### Multivariable Linear Regression
-
-### Equation: Normal Equation for Theta
+*  Simple Linear Regression
+*  Multivariable Linear Regression
+*  Equation: Normal Equation for Theta
 
 
 ## 2. Evolutionary Algorithms
 
-### Genetic Algorithm (traditional)
-
-### Genetic Algorithm (with 3 types of crossovers)
+* Genetic Algorithm (traditional)
+* Genetic Algorithm (with 3 types of crossovers)
 
 
 ## 3. Metaheuristic
 
-### Basic introduction of Hybrid Metaheuristic
+* Basic introduction of Hybrid Metaheuristic
