@@ -28,7 +28,7 @@ Theta_0 is: -3.89578087831191
 Theta_1 is: 1.1930336441896
 ```
 
-**With the normal equation, computing the inversion has complexity _O(n3)_. So
+:boom: _With the normal equation, computing the inversion has complexity **O(n3)**. So
 if we have a very large number of features, the normal equation will be slow.
-  In practice, when n exceeds _10,000_ it might be a good time to go from a
-  normal solution to an iterative process.**
+  In practice, when n exceeds **10,000** it might be a good time to go from a
+  normal solution to an iterative process._
