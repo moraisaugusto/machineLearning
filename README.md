@@ -14,7 +14,7 @@ Compilation of Machine Learning tips
 ## 2. Evolutionary Algorithms
 
 * Genetic Algorithm (traditional)
-* Genetic Algorithm (with 3 types of crossovers)
+* Genetic Algorithm (with 3 types of mutations)
 
 
 ## 3. Metaheuristic
